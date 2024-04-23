@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  background-image: url(images/qr-code-3970681_1920_1612853943954_1612854004849.jpg.avif);
+  height:900px;
 }
 
 .App-logo {
@@ -14,7 +16,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: url(./images/qr-code-3970681_1920_1612853943954_1612854004849.jpg.avif);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
